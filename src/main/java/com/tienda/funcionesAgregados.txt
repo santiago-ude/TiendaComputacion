@@ -1,0 +1,4 @@
+-----FUNCIONES-----
+Crear Nuevo Cliente y elegir el tipo
+Que automaticamente se le asigne una factura particular
+Actualizar la lista de clientes con el nuevo (sus datos y el tipo de cliente)
