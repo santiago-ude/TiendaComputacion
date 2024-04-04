@@ -1,0 +1,14 @@
+-----CLIENTES-----
+1 Consumidor final
+2 Premium
+3 Coorporativo
+
+-----FACTURAS-----
+Factura ConsumidorFinal
+Factura Premium
+Factura Coorporativa
+
+-----FUNCIONES-----
+Crear Nuevo Cliente y elegir el tipo
+Que automaticamente se le asigne una factura particular
+Actualizar la lista de clientes con el nuevo (sus datos y el tipo de cliente)
